@@ -1,0 +1,18 @@
+As instruções de montagem se encontram no arquivo Diagrama.pdf; este arquivo
+descreve as etapas necessárias para carregar o programa no Arduino Uno.
+
+Para compilar o programa Steppers.ino e carregá-lo no Arduino Uno, você
+precisa primeiro instalar a biblioteca AFMotor na IDE do Arduino. Há
+duas maneiras de fazê-lo. A primeira depende da própria IDE, clique
+na aba Sketch e selecione a opção Import Library e, em seguida, Add Library.
+Selecione a pasta AFMotor disponibilizada neste arquivo. A segunda maneira
+é copiando a pasta AFMotor e a colando na pasta libraries da sua IDE do
+Arduino.
+
+Tendo concluído a instalão da biblioteca AFMotor, é apenas uma questão de
+conectar o Arduino Uno ao computador, selecionar o modelo correto
+(Genuino/Arduino Uno) e carregar o programa Steppers.ino
+
+Caso o programa não se comporte da forma desejada, me avise, que eu conserto
+tão longo quanto possível.
+ 
